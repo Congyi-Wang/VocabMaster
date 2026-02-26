@@ -1,0 +1,64 @@
+{
+  "vocabulary": [
+    {
+      "word": "abandon",
+      "pronunciation": "/əˈbændən/",
+      "meaning": "to give up completely",
+      "example_sentence": "She had to abandon her plans due to the storm."
+    },
+    {
+      "word": "benevolent",
+      "pronunciation": "/bəˈnɛvələnt/",
+      "meaning": "well-meaning and kindly",
+      "example_sentence": "The benevolent old man donated to the charity every year."
+    },
+    {
+      "word": "cacophony",
+      "pronunciation": "/kəˈkɒfəni/",
+      "meaning": "a harsh discordant mixture of sounds",
+      "example_sentence": "The cacophony of car horns filled the busy street."
+    },
+    {
+      "word": "diligent",
+      "pronunciation": "/ˈdɪlɪdʒənt/",
+      "meaning": "having or showing care and effort in one's work",
+      "example_sentence": "The diligent student always completed her homework on time."
+    },
+    {
+      "word": "ephemeral",
+      "pronunciation": "/ɪˈfɛmərəl/",
+      "meaning": "lasting for a very short time",
+      "example_sentence": "The beauty of cherry blossoms is ephemeral."
+    },
+    {
+      "word": "fortuitous",
+      "pronunciation": "/fɔːrˈtjuːɪtəs/",
+      "meaning": "happening by accident or chance, often lucky",
+      "example_sentence": "Their meeting at the airport was entirely fortuitous."
+    },
+    {
+      "word": "gregarious",
+      "pronunciation": "/ɡrɪˈɡɛəriəs/",
+      "meaning": "fond of company; sociable",
+      "example_sentence": "She is gregarious and loves attending social events."
+    },
+    {
+      "word": "hypothesis",
+      "pronunciation": "/haɪˈpɒθəsɪs/",
+      "meaning": "a proposed explanation for a phenomenon",
+      "example_sentence": "The scientist tested her hypothesis through a series of experiments."
+    },
+    {
+      "word": "immutable",
+      "pronunciation": "/ɪˈmjuːtəbl/",
+      "meaning": "unchanging over time; unalterable",
+      "example_sentence": "The laws of physics are immutable."
+    },
+    {
+      "word": "juxtapose",
+      "pronunciation": "/ˌdʒʌkstəˈpoʊz/",
+      "meaning": "to place close together for contrasting effect",
+      "example_sentence": "The artist juxtaposed light and dark colors in her painting."
+    }
+  ]
+}

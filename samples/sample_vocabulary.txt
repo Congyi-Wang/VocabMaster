@@ -1,0 +1,24 @@
+# Sample Vocabulary File for VocabMaster
+# Format: word | meaning
+# Lines starting with # are comments
+
+abandon | to give up completely
+benevolent | well-meaning and kindly
+cacophony | a harsh discordant mixture of sounds
+diligent | having or showing care in one's work
+ephemeral | lasting for a very short time
+fortuitous | happening by accident or chance
+gregarious | fond of company; sociable
+hypothesis | a proposed explanation for a phenomenon
+immutable | unchanging over time
+juxtapose | to place close together for comparison
+kinetic | relating to or resulting from motion
+luminous | giving off light; bright or shining
+meticulous | showing great attention to detail
+nebulous | unclear, vague, or ill-defined
+omniscient | knowing everything
+paradigm | a typical example or pattern of something
+quintessential | representing the most perfect example
+resilient | able to recover quickly from difficulties
+serendipity | the occurrence of events by chance in a happy way
+tenacious | tending to keep a firm hold; persistent
