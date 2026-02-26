@@ -25,7 +25,6 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   List<VocabularyEntry> _vocabulary = [];
   String _statusMessage = 'No vocabulary loaded';
-  int _currentIndex = 0;
 
   Future<void> _loadTxtFile() async {
     final result = await FilePicker.platform.pickFiles(
@@ -40,7 +39,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
     setState(() {
       _vocabulary = entries;
-      _currentIndex = 0;
       _statusMessage = 'Loaded ${entries.length} words from TXT';
     });
   }
@@ -58,7 +56,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
     setState(() {
       _vocabulary = entries;
-      _currentIndex = 0;
       _statusMessage = 'Loaded ${entries.length} words from JSON';
     });
   }
@@ -78,7 +75,6 @@ class _HomeScreenState extends State<HomeScreen> {
     setState(() {
       if (loaded.vocabulary.isNotEmpty) {
         _vocabulary = loaded.vocabulary;
-        _currentIndex = 0;
       }
       _statusMessage =
           'Theme "${loaded.theme.name}" loaded with ${loaded.vocabulary.length} words';
